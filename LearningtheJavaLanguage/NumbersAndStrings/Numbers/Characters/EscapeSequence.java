@@ -16,7 +16,7 @@ public class EscapeSequence {
         // \r Carriage return
         System.out.println("Carriage return example:");
         System.out.println("12345\rABCDE"); // Moves cursor to the beginning and overwrites depending on console behavior
-        System.out.println("Hello World\\rHi\n");
+        System.out.println("Hello World\rHi");
 
         // \f Form feed (page break, may not be visible in typical consoles)
         System.out.println("Form feed example: Hello\fWorld");
