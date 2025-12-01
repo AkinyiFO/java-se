@@ -1,5 +1,3 @@
-package org.example;
-
 public class Random {
     public static void main(String[] args) {
         // 1. Randomly generate a single number between 0.0 (inclusive) and 1.0 (exclusive)
