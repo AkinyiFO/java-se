@@ -17,9 +17,5 @@ public class ConcatenatingStrings {
             "Java spanning multiple lines " +
             "with concatenation!";
         System.out.println(quote);
-
-        // printf() and format() methods
-        // format() method in java.lang.String class returns a String object rather than a PrintStream object
-
     }
 }
