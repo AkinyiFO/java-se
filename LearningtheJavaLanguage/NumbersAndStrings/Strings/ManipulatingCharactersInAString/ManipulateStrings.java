@@ -65,7 +65,7 @@ public class ManipulateStrings {
         System.out.println(lastIndex);
 
         // int indexOf(int ch, int fromIndex)
-        int nextIndex = anotherPalindrome.indexOf('a', firstIndex + 1); // Start searching from index 16 inclusive
+        int nextIndex = anotherPalindrome.indexOf('a', firstIndex + 1);
         System.out.println(nextIndex);
 
         // int lastIndexOf(int ch, int fromIndex)
